@@ -1,8 +1,10 @@
 # **42 Header**
 
-42 (Paris)
+42 (Tokyo)
 
 ### **Description**
+
+**42 Headerを42Tokyo用にインストールスクリプトを書き換えたものです。**
 
 42 standard header for vim editor.
 
